@@ -1,7 +1,7 @@
 {
   "id": "6005",
-  "text": "Hello",
-  "artwork": "https://widgets.itunes.apple.com/images/app_search_intro.png",
+  "text": "If you happy with Emoji app for your Mac, please download our new app!",
+  "artwork": "http://a5.mzstatic.com/us/r30/Purple60/v4/73/a1/b3/73a1b361-d7b0-66b6-8b2c-524d56b5dd72/icon256.png",
   "button1": "Remind me later",
   "button2": "Dismiss",
   "button3": "Download",
