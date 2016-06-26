@@ -9,5 +9,5 @@
   "button2_action": "dismiss",
   "button3_action": "open",
   "download_link": "macappstore://itunes.apple.com/us/app/app-for-instagram-instant/id448125777?mt=12&uo=2&at=11l4Vw&ct=p1",
-  "remind_delay": 28800
+  "remind_delay": 7200
 }
