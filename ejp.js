@@ -9,5 +9,5 @@
   "button2_action": "dismiss",
   "button3_action": "open",
   "download_link": "macappstore://itunes.apple.com/us/app/app/id1128074521?mt=12&uo=2&at=11l4Vw&ct=pm_ubk",
-  "remind_delay": 7200
+  "remind_delay": 7201
 }
