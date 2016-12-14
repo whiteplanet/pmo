@@ -10,3 +10,4 @@
   "button3_action": "open",
   "download_link": "macappstore://itunes.apple.com/us/app/app/id458040553?mt=12&uo=2&at=11l4Vw&ct=pm_spt_em",
   "remind_delay": 3600
+}
